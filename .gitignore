@@ -1,0 +1,8 @@
+*.class
+*.lock
+*.version
+*.tree
+*.zip
+*.log
+*.prefs
+*.metadata/
